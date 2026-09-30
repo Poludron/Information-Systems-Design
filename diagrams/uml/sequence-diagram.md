@@ -46,7 +46,3 @@
 | 17 | APIGateway | EventLogger | Запись события |
 | 18 | EventLogger | EventStore | Сохранить событие |
 | 19 | APIGateway | Edge-устройство | Решение: разрешено |
-
-
-    GW-->>Edge: Решение: разрешено
-    deactivate GW
